@@ -1,15 +1,19 @@
 Modul - 1
-- Expression and Variables
-- Function
-- Conditionals
+- Expression and Variables ( minggu 1 )
+- Function ( minggu 2 )
+- Conditionals ( minggu 3 )
+- Looping ( minggu 4 )
+
 Modul - 2
-- While Loops
-- For Loops
-- Recurssion ( optional )
+- While Loops ( minggu 5)
+- For Loops ( minggu 6 )
+- Recurssion ( minggu 7 )
+
 Modul - 3
-- String
-- List
-- Dictionaries
-- OOP
+- String ( minggu 8 )
+- List ( minggu 9 )
+- Dictionaries ( minggu 10 )
+- OOP ( minggu 11 )
+
 Modul - 4
 - Small Project
