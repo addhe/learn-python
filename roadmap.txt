@@ -1,0 +1,15 @@
+Modul - 1
+- Expression and Variables
+- Function
+- Conditionals
+Modul - 2
+- While Loops
+- For Loops
+- Recurssion ( optional )
+Modul - 3
+- String
+- List
+- Dictionaries
+- OOP
+Modul - 4
+- Small Project
