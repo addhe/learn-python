@@ -24,7 +24,7 @@
     6. Gunakan default parameter untuk memberikan nilai default pada parameter.
     7. Gunakan variabel lokal di dalam fungsi untuk menghindari konflik dengan variabel global.
     8. Gunakan fungsi untuk mengorganisir kode dan menghindari pengulangan.
-    9. Gunakan fungsi untuk meningkatkan keterbacaan kode.
+    9. Gunakan fungsi untuk meningkatkan keterbacaan (untuk pemahaman)kode.
     10. Gunakan fungsi untuk memecah kode menjadi bagian-bagian yang lebih kecil dan lebih mudah dikelola.
     11. Gunakan fungsi untuk meningkatkan modularitas kode.
     12. Gunakan fungsi untuk meningkatkan pemeliharaan kode.
@@ -32,7 +32,6 @@
     14. Gunakan fungsi untuk meningkatkan keamanan kode.
     15. Gunakan fungsi untuk meningkatkan portabilitas (untuk penggunaan di berbagai platform) kode.
     16. Gunakan fungsi untuk meningkatkan fleksibilitas (untuk perubahan) kode.
-    17. Gunakan fungsi untuk meningkatkan keamanan kode.
 """
 
 # Example 1: Function without parameter
