@@ -115,3 +115,23 @@ if __name__ == "__main__":
     print(f"Mantra Fibonacci untuk 10 angka: {fibonacci(10)}")
 
 print("\nPetualangan Piko dengan Rekursi selesai! Ia makin pintar menggunakan Cermin Ajaib!")
+
+# buatkan fungsi regkursi dengan menggunakan lambda python dan jelaskan
+print("\n--- Piko Mencoba Mantra Lambda Rekursif ---")
+# Fungsi rekursif dengan lambda untuk menghitung faktorial
+faktorial_lambda = (lambda f: lambda n: 1 if n == 0 else n * f(f)(n - 1))(lambda f: f) 
+print("Piko mencoba mantra lambda untuk faktorial dari 5:")
+print(f"Faktorial dari 5 dengan lambda: {faktorial_lambda(5)}")
+
+# Fungsi rekursif dengan lambda untuk menghitung Fibonacci dengan lebih mudah di pahami
+fibonacci_lambda = (lambda f: lambda n: [] if n <= 0 else [0] if n == 1 else [0, 1] if n == 2 else (f(f)(n - 1) + [f(f)(n - 1)[-1] + f(f)(n - 2)[-1]]))(lambda f: f)
+print("Piko mencoba mantra lambda untuk Fibonacci dari 7 angka:")
+print(f"Deret Fibonacci untuk 7 angka dengan lambda: {fibonacci_lambda(7)}")
+
+# Penjelasan:
+# Piko menggunakan lambda untuk membuat fungsi rekursif yang lebih ringkas.
+# Faktorial menggunakan lambda untuk menghitung faktorial dengan cara yang mirip dengan fungsi biasa.
+# Fibonacci juga menggunakan lambda untuk menghasilkan deret Fibonacci dengan cara yang mirip.
+# Ini menunjukkan bahwa Piko belajar cara baru untuk menggunakan mantra rekursi dengan lebih efisien.
+# Piko merasa bangga bisa menggunakan lambda untuk membuat mantra yang lebih ringkas dan mudah dipahami.
+print("Piko merasa bangga bisa menggunakan lambda untuk membuat mantra yang lebih ringkas")
