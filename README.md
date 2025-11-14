@@ -1,31 +1,31 @@
-# Python Learning Project
+# Proyek Belajar Python
 
-This project is designed to help you learn Python through a structured roadmap. The project is divided into four modules, each focusing on different fundamental concepts of Python programming.
+Proyek ini dirancang untuk membantu Anda belajar Python melalui roadmap yang terstruktur. Proyek ini dibagi menjadi empat modul, masing-masing berfokus pada konsep dasar pemrograman Python yang berbeda.
 
-## Project Structure
+## Struktur Proyek
 
-- **learn-python**: This is the root directory for the Python learning project.
+- **learn-python**: Ini adalah direktori root untuk proyek belajar Python.
 
-### Modul-1: Basic Concepts
-- **minggu-1_Expression_and_Variables**: Contains exercises related to expressions and variables.
-- **minggu-2_Function**: Contains exercises related to functions.
-- **minggu-3_Conditionals**: Contains exercises related to conditionals.
-- **minggu-4_Looping**: Contains exercises related to looping.
+### Modul-1: Konsep Dasar
+- **minggu-1_Expression_and_Variables**: Berisi latihan yang berkaitan dengan ekspresi dan variabel.
+- **minggu-2_Function**: Berisi latihan yang berkaitan dengan fungsi.
+- **minggu-3_Conditionals**: Berisi latihan yang berkaitan dengan kondisional.
+- **minggu-4_Looping**: Berisi latihan yang berkaitan dengan perulangan.
 
-### Modul-2: Advanced Control Flow
-- **minggu-5_While_Loops**: Contains exercises related to while loops.
-- **minggu-6_For_Loops**: Contains exercises related to for loops. (Now includes `for_loops.py` with examples)
-- **minggu-7_Recurssion**: Contains exercises related to recursion.
+### Modul-2: Alur Kontrol Lanjutan
+- **minggu-5_While_Loops**: Berisi latihan yang berkaitan dengan perulangan while.
+- **minggu-6_For_Loops**: Berisi latihan yang berkaitan dengan perulangan for. (Sekarang menyertakan `for_loops.py` dengan contoh)
+- **minggu-7_Recurssion**: Berisi latihan yang berkaitan dengan rekursi.
 
-### Modul-3: Data Structures and OOP
-- **minggu-8_String**: Contains exercises related to strings. (Now includes `string.py` with examples)
-- **minggu-9_List**: Contains exercises related to lists. (Now includes `list.py` with examples)
-- **minggu-10_Dictionaries**: Contains exercises related to dictionaries. (Now includes `dictionaries.py` with examples)
-- **minggu-11_OOP**: Contains exercises related to object-oriented programming. (Now includes `oop.py` with examples)
+### Modul-3: Struktur Data dan OOP
+- **minggu-8_String**: Berisi latihan yang berkaitan dengan string. (Sekarang menyertakan `string.py` dengan contoh)
+- **minggu-9_List**: Berisi latihan yang berkaitan dengan list. (Sekarang menyertakan `list.py` dengan contoh)
+- **minggu-10_Dictionaries**: Berisi latihan yang berkaitan dengan kamus. (Sekarang menyertakan `dictionaries.py` dengan contoh)
+- **minggu-11_OOP**: Berisi latihan yang berkaitan dengan pemrograman berorientasi objek. (Sekarang menyertakan `oop.py` dengan contoh)
 
-### Modul-4: Final Project
-- **Small_Project**: A small project that applies the concepts learned in previous modules. This now includes an improved "Guess the Number" game with difficulty levels, guess limits, and a play-again feature.
+### Modul-4: Proyek Akhir
+- **Small_Project**: Proyek kecil yang menerapkan konsep yang dipelajari di modul sebelumnya. Sekarang termasuk game "Tebak Angka" yang ditingkatkan dengan tingkat kesulitan, batas tebakan, dan fitur main lagi.
 
-## Getting Started
+## Memulai
 
-To get started, navigate to the respective module and open the `main.py` file for exercises or examples related to that topic. For modules with topic-specific Python files (e.g., `for_loops.py`, `string.py`), you can run those files directly to see examples. Happy learning!
+Untuk memulai, navigasikan ke modul masing-masing dan buka file `main.py` untuk latihan atau contoh yang terkait dengan topik itu. Untuk modul dengan file Python khusus topik (misalnya, `for_loops.py`, `string.py`), Anda dapat menjalankan file-file tersebut secara langsung untuk melihat contohnya. Selamat belajar!
